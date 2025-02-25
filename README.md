@@ -28,6 +28,5 @@ I love exploring new technologies and continuously learning.
 
 ## 🔗 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/bastien-grisvard-b74379253)
-- 🌍 **Portfolio**: WIP
 
 Thanks for visiting my profile! 🚀
