@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Hn3F7EEtazRWXHTpqP0Tuu-hXV2rDQTEbbry_-YTxQM" />
+
 # 👨‍💻 Hi, I'm Bastien!
 
 ### Backend Developer | 🎓 Software Architect Apprentice | Passionate about Code
